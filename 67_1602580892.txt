@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body></body>
+</html>
+<nav>
+  <ul>
+    <li><a href="#">lifestyle</a></li>
+    <li><a href="#">photodiary</a></li>
+    <li><a href="#">musik</a></li>
+    <li><a href="#">travel</a></li>
+  </ul>
+</nav>
+<img src="./dg.png" alt="танцююча дівчина" />
+<br /><span>Lifestyle</span><br />
+<h2>More than just a music festival</h2>
+<p>
+  Lorem ipsum dolor sit amet consectetur adipisicing elit. Desemnt distinctio
+  qui. placeat nam consequuntur ullam accusamus nrsi nostmm dolores numquam at-
+  velit possimus doloremque eamm obcaecati id porro reprehenderit eaque quaerat
+  saepe atque eligendl. pariatur inventore cum. A dolor saepe perferendis, quasi
+  assumenda reiciendis delectus quia est non. numquatn offlciis repellat placeat
+  nihil operiam repellendos sunt laudantium ad esercitationem in aliquid id.
+  nemo nam totam. Ipsum dolore exercitalionem. non delectus modi debitis
+  repudiandae! Ipsa quasi voluptatibus voluptates! Architecto, expedita
+  laboriosam quidem explicabo deleniti ducimus, hic exercitationem sed autenl
+  rerum harunl dignissinlos nani, nulla nobis magni quod doloremqne repellendos
+  molestiae?
+</p>
+<img src="./jh.png" alt="кава" />
+<br /><span>lifestyle</span><br />
+<section>
+  <h2>Life tastes better with coffee</h2>
+  <p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Desemnt distinctio
+    qui. placeat nam consequuntur ullam accusamus nrsi nostmm dolores numquam
+    at- velit possimus doloremque eamm obcaecati id porro reprehenderit eaque
+    quaerat saepe atque eligendl. pariatur inventore cum. A dolor saepe
+    perferendis, quasi assumenda reiciendis delectus quia est non. numquatn
+    offlciis repellat placeat nihil operiam repellendos sunt laudantium ad
+    esercitationem in aliquid id. nemo nam totam. Ipsum dolore exercitalionem.
+    non delectus modi debitis repudiandae! Ipsa quasi voluptatibus voluptates!
+    Architecto, expedita laboriosam quidem explicabo deleniti ducimus, hic
+    exercitationem sed autenl rerum harunl dignissinlos nani, nulla nobis magni
+    quod doloremqne repellendos molestiae?
+  </p>
+</section>
+<img src="./j.png" alt="діти дивляться на міст" />
+<br /><span>photodiary</span><br />
+<h2>American dream</h2>
+<p>
+  Lorem ipsum dolor sit amet consectetur adipisicing elit. Desemnt distinctio
+  qui. placeat nam consequuntur ullam accusamus nrsi nostmm dolores numquam at-
+  velit possimus doloremque eamm obcaecati id porro reprehenderit eaque quaerat
+  saepe atque eligendl. pariatur inventore cum. A dolor saepe perferendis, quasi
+  assumenda reiciendis delectus quia est non. numquatn offlciis repellat placeat
+  nihil operiam repellendos sunt laudantium ad esercitationem in aliquid id.
+  nemo nam totam. Ipsum dolore exercitalionem. non delectus modi debitis
+  repudiandae! Ipsa quasi voluptatibus voluptates! Architecto, expedita
+  laboriosam quidem explicabo deleniti ducimus, hic exercitationem sed autenl
+  rerum harunl dignissinlos nani, nulla nobis magni quod doloremqne repellendos
+  molestiae?
+</p>
+<img src="./a.png" alt="дівчина дивиться в небо" />
+<br /><span>photodiary</span><br />
+<h2>A day exploring the Alps</h2>
+<p>
+  Lorem ipsum dolor sit amet consectetur adipisicing elit. Desemnt distinctio
+  qui. placeat nam consequuntur ullam accusamus nrsi nostmm dolores numquam at-
+  velit possimus doloremque eamm obcaecati id porro reprehenderit eaque quaerat
+  saepe atque eligendl. pariatur inventore cum. A dolor saepe perferendis, quasi
+  assumenda reiciendis delectus quia est non. numquatn offlciis repellat placeat
+  nihil operiam repellendos sunt laudantium ad esercitationem in aliquid id.
+  nemo nam totam. Ipsum dolore exercitalionem. non delectus modi debitis
+  repudiandae! Ipsa quasi voluptatibus voluptates! Architecto, expedita
+  laboriosam quidem explicabo deleniti ducimus, hic exercitationem sed autenl
+  rerum harunl dignissinlos nani, nulla nobis magni quod doloremqne repellendos
+  molestiae?
+</p>
+<button>load more</button>
