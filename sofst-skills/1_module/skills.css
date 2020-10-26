@@ -1,0 +1,104 @@
+@import url("https://fonts.googleapis.com/css2?family=Oregano&display=swap");
+a {
+  text-decoration: none;
+  color: mediumvioletred;
+  font-family: "Dancing Script", cursive;
+  margin-bottom: 34px;
+}
+.nav {
+  text-align: center;
+}
+
+.ha {
+  display: inline-block;
+  margin-right: 30px;
+  font-weight: 500;
+  font-size: 14px;
+  cursor: pointer;
+}
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800;900&display=swap");
+.hove {
+  margin-top: 20px;
+}
+.g {
+  text-decoration: none;
+  color: mediumvioletred;
+  font-family: "Dancing Script", cursive;
+}
+.k:hover {
+  color: rgb(3, 169, 244);
+}
+.g:hover {
+  color: rgb(3, 169, 244);
+}
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;562;600;700&display=swap");
+.h1 {
+  text-align: center;
+  color: violet;
+  margin-top: 5px;
+  font-family: "Dancing Script", cursive;
+}
+.p {
+  text-align: center;
+  margin-bottom: 30px;
+  margin-top: 5px;
+  font-family: "Playfair Display", serif;
+}
+.main {
+  text-align: center;
+  margin: 0, auto;
+}
+.section {
+  display: inline-block;
+  margin-right: 100px;
+  width: 450px;
+  height: auto;
+  margin-bottom: 5px;
+  margin-right: 100px;
+}
+.section_23 {
+  display: inline-block;
+  margin-right: 100px;
+  width: 450px;
+  height: auto;
+  margin-bottom: 5px;
+  margin-right: 100px;
+  justify-content: center;
+}
+.img {
+  width: 470px;
+  height: 330px;
+  margin-bottom: 5px;
+  margin-right: 100px;
+}
+.g {
+  width: 150px;
+  height: auto;
+  text-align: center;
+  border-radius: 10px;
+}
+.name {
+  font-family: "Dancing Script", cursive;
+}
+.product {
+  text-align: center;
+}
+@import url("https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat&family=Oswald&family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+.btn {
+  margin-top: 50px;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: "Pacifico", cursive;
+  color: mediumvioletred;
+  padding: 21px 34px;
+  background-color: #fff;
+  border: 2px solid rgb(3, 169, 244);
+  cursor: pointer;
+  text-align: center;
+  border-radius: 7px;
+}
+.h3 {
+  font-family: "Pacifico", cursive;
+}
