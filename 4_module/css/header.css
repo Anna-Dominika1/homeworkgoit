@@ -1,0 +1,35 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1046px;
+  margin: 30px auto 113px auto;
+}
+.logo_link {
+  font-size: 30px;
+  font-family: "Montserrat", sans-serif;
+  color: #95e1d3;
+}
+.logo_link:hover {
+  color: #f38181;
+  border-bottom: 3px solid #f38181;
+}
+.menu {
+  width: 372px;
+}
+.menu_list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.menu_link_item {
+  font-size: 14px;
+  font-family: "Roboto", sans-serif;
+  color: #95e1d3;
+  text-transform: uppercase;
+}
+.menu_link_item:hover {
+  color: #f38181;
+  border-bottom: 3px solid #f38181;
+  cursor: pointer;
+}
