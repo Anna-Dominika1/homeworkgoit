@@ -38,7 +38,7 @@
         <h2 class="icons_title">Amazing Services</h2>
         <div class="div_wrapper">
           <div class="div">
-            <img class="img_icons" src="./ALARM.png" alt="Alarm" />
+            <img class="img_icons" src="./images/ALARM.png" alt="Alarm" />
             <div>
               <span class="span">Photography</span>
               <p class="text">
@@ -48,7 +48,7 @@
             </div>
           </div>
           <div class="div">
-            <img class="img_icons" src="./LINE_GRAPH.png" alt="Line_Graph" />
+            <img class="img_icons" src="./images/LINE_GRAPH.png" alt="Line_Graph" />
             <div>
               <span class="span">Web Design</span>
               <p class="text">
@@ -58,7 +58,7 @@
             </div>
           </div>
           <div class="div">
-            <img class="img_icons" src="./COMPUTER.png" alt="Computer" />
+            <img class="img_icons" src="./images/COMPUTER.png" alt="Computer" />
             <div>
               <span class="span">Creativity</span>
               <p class="text">
@@ -68,7 +68,7 @@
             </div>
           </div>
           <div class="div">
-            <img class="img_icons" src="./BOOK.png" alt="Book" />
+            <img class="img_icons" src="./images/BOOK.png" alt="Book" />
             <div>
               <span class="span">seo</span>
               <p class="text">
@@ -78,7 +78,7 @@
             </div>
           </div>
           <div class="div">
-            <img class="img_icons" src="./HOME.png" alt="Home" />
+            <img class="img_icons" src="./images/HOME.png" alt="Home" />
             <div>
               <span class="span">Css/Html</span>
               <p class="text">
@@ -88,7 +88,7 @@
             </div>
           </div>
           <div class="div">
-            <img class="img_icons" src="./IMAGE.png" alt="Image" />
+            <img class="img_icons" src="./images/IMAGE.png" alt="Image" />
             <div>
               <span class="span">digital</span>
               <p class="text">
@@ -109,21 +109,21 @@
         </p>
         <div class="cards">
           <div class="card">
-            <img class="img_cards" src="./programmer1.png" alt="Matthew Dix" />
+            <img class="img_cards" src="./images/programmer1.png" alt="Matthew Dix" />
             <h5 class="name">Matthew Dix</h5>
             <h4 class="data">Graphic Design</h4>
           </div>
           <div class="card">
             <img
               class="img_cards"
-              src="./programmer2.png"
+              src="./images/programmer2.png"
               alt="Christopher Campbell"
             />
             <h5 class="name">Christopher Campbell</h5>
             <h4 class="data">Branding/UX design</h4>
           </div>
           <div class="card">
-            <img class="img_cards" src="./programmer3.png" alt="Matthew Dix" />
+            <img class="img_cards" src="./images/programmer3.png" alt="Matthew Dix" />
             <h5 class="name">Michael Fertig</h5>
             <h4 class="data">Developer</h4>
           </div>
