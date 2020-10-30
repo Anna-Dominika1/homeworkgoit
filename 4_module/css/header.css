@@ -10,12 +10,9 @@
   font-family: "Montserrat", sans-serif;
   color: #95e1d3;
 }
-.logo_link:hover {
-  color: #f38181;
-  border-bottom: 3px solid #f38181;
-}
+
 .menu {
-  width: 372px;
+  width: 490px;
 }
 .menu_list {
   display: flex;
@@ -23,8 +20,10 @@
   align-items: center;
 }
 .menu_link_item {
+  font-weight: 400;
   font-size: 14px;
-  font-family: "Roboto", sans-serif;
+  padding-bottom: 12px;
+  font-family: "Montserrat", sans-serif;
   color: #95e1d3;
   text-transform: uppercase;
 }

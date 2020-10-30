@@ -20,7 +20,7 @@
   display: block;
   content: "";
   margin: 24px auto 0 auto;
-  margin-bottom: 46px;
+  margin-bottom: 42px;
 }
 .p {
   font-family: "Roboto", sans-serif;
@@ -38,21 +38,25 @@
 }
 .card {
   width: 380px;
-  margin: auto 29px;
 }
 .data {
+  font-style: italic;
+  font-weight: 300;
   font-size: 15px;
-  color: rgb(180, 173, 158);
+  color: #999999;
   font-family: "Roboto", sans-serif;
   text-align: center;
   margin-top: 15px;
+  margin-bottom: 82px;
 }
 .name {
+  color: #333333;
+  font-weight: 400;
   text-align: center;
   text-transform: uppercase;
   font-size: 14px;
   margin-top: 31px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 14px;
 }
 .img_cards {
