@@ -1,0 +1,395 @@
+@media screen and (min-width: 322px) {
+  .main {
+  }
+
+  .section1 {
+    text-align: center;
+  }
+
+  .section1_wrapper {
+  }
+
+  .header {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    background-image: url(../images/bacround.png);
+    background-repeat: no-repeat;
+    height: 542px;
+    width: 322px;
+  }
+
+  .signup {
+  }
+  .header_mini {
+  }
+  .login {
+    margin-top: 33px;
+    background-color: transparent;
+    padding: 12px 18px;
+    border-radius: 50px;
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    border: 3px solid transparent;
+  }
+
+  .login:hover {
+    border: 3px solid #fff;
+  }
+
+  .urlaubsglück {
+    margin-top: 115px;
+    font-weight: 700;
+    font-family: "Montserrat", sans-serif;
+    text-transform: uppercase;
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 38px;
+  }
+
+  .urlaubsglück_titile {
+    font-size: 30px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fff;
+    margin-bottom: 19px;
+  }
+
+  .urlaubsglück_subtitile {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: 18px;
+    color: #fff;
+    margin: 0 auto;
+    width: 217px;
+    margin-bottom: 19px;
+  }
+
+  .btn {
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    background-color: #ff4e50;
+    padding: 12px 14px;
+    color: #fff;
+    border-radius: 20px;
+    border: none;
+    margin-bottom: 139px;
+    width: 280px;
+  }
+
+  .section2 {
+    text-align: center;
+  }
+
+  .title {
+    font-family: "Montserrat", sans-serif;
+    margin-bottom: 14px;
+  }
+
+  .wrapper {
+  }
+
+  .img_card {
+    position: relative;
+    margin: 0 auto;
+    width: 122px;
+    height: 122px;
+    margin-bottom: 20px;
+  }
+  .title_section2 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    color: #333333;
+    margin-bottom: 14px;
+    text-align: center;
+  }
+  .paragraf {
+    font-family: "Roboto", sans-serif;
+
+    color: #666666;
+
+    margin: 0 auto;
+  }
+
+  .mini_icons {
+    background-color: #ff4e50;
+    width: 41px;
+    height: 41px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    border: 4px solid #fff;
+  }
+
+  .mini_icons1 {
+    background-color: #ffa507;
+  }
+
+  .mini_icons2 {
+    background-color: #1ed7ae;
+  }
+
+  .mini_icons3 {
+    background-color: #4e73db;
+  }
+
+  .img {
+    border-radius: 100px;
+  }
+
+  .icons {
+  }
+
+  .card {
+    margin-bottom: 30px;
+  }
+  .button {
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    background-color: #fff;
+    padding: 12px 14px;
+    color: #ff4e50;
+    border-radius: 20px;
+    border: 3px solid #ff4e50;
+    margin-bottom: 139px;
+    width: 280px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .header {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    background-image: url(../images/bacround_tablet.png);
+    height: 700px;
+    width: 768px;
+  }
+
+  .signup {
+    display: flex;
+
+    flex-direction: row-reverse;
+    /* justify-content: space-between; */
+  }
+
+  .d {
+    /* display: flex; */
+    /* flex-direction: row-reverse; */
+    justify-content: space-between;
+    /* width: 300px; */
+    margin-top: 50px;
+    margin-bottom: 152px;
+  }
+
+  .login {
+  }
+
+  .login:hover {
+    cursor: pointer;
+    width: 100px;
+    height: 50px;
+    border-radius: 36px;
+  }
+  .urlaubsglück {
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: left;
+    text-transform: uppercase;
+    margin-bottom: 38px;
+    color: #fff;
+    margin-right: 340px;
+  }
+
+  .urlaubsglück_titile {
+    font-size: 52px;
+    width: 600px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+  }
+
+  .urlaubsglück_subtitile {
+    width: 398px;
+    font-size: 24px;
+    margin-bottom: 34px;
+  }
+
+  .btn {
+  }
+
+  .section2 {
+    text-align: center;
+  }
+
+  .title {
+  }
+
+  .wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    text-align: center;
+    margin: 0 auto;
+
+    /* width: 458px;
+    height: 493px; */
+  }
+
+  .card {
+    width: 250px;
+    margin-left: 60px;
+    margin-right: 60px;
+  }
+
+  .mini_icons1 {
+    background-color: #ffa507;
+  }
+
+  .mini_icons2 {
+    background-color: #1cd7ad;
+  }
+
+  .mini_icons3 {
+    background-color: #4e73db;
+  }
+
+  .card2 {
+    order: 1;
+  }
+
+  .card3 {
+    order: 2;
+  }
+
+  .img {
+  }
+
+  .mini_icons {
+  }
+
+  .icons {
+  }
+
+  .title_section2 {
+    margin-bottom: 30px;
+  }
+
+  .paragraf {
+  }
+
+  .button {
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .header {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    background-image: url(../images/bacround_computer.png);
+    height: 700px;
+    width: 1440px;
+  }
+
+  .signup {
+    display: flex;
+
+    flex-direction: row-reverse;
+    /* justify-content: space-between; */
+  }
+
+  .d {
+    /* display: flex; */
+    /* flex-direction: row-reverse; */
+    justify-content: space-between;
+    /* width: 300px; */
+    margin-top: 50px;
+    margin-bottom: 152px;
+  }
+
+  .login {
+  }
+
+  .login:hover {
+    cursor: pointer;
+    width: 100px;
+    height: 50px;
+    border-radius: 36px;
+  }
+  .urlaubsglück {
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: left;
+    text-transform: uppercase;
+
+    color: #fff;
+    margin-right: 1012px;
+    margin-bottom: 160px;
+  }
+
+  .urlaubsglück_titile {
+    font-size: 52px;
+    width: 600px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+  }
+
+  .urlaubsglück_subtitile {
+    width: 398px;
+    font-size: 24px;
+    margin-bottom: 35px;
+  }
+
+  .btn {
+  }
+
+  .section2 {
+  }
+
+  .title {
+  }
+
+  .wrapper {
+  }
+
+  .card {
+    margin-right: 30px;
+    margin-top: 33px;
+  }
+
+  .img_card {
+  }
+
+  .img {
+  }
+
+  .mini_icons {
+  }
+
+  .icons {
+  }
+
+  .title_section2 {
+    margin-bottom: 33px;
+  }
+
+  .paragraf {
+  }
+
+  .button {
+    margin-bottom: 70px;
+  }
+}
