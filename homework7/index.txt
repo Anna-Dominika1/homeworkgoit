@@ -41,7 +41,7 @@
               alt="Bradley_Hunter"
             />
             <div class="mini_icons">
-              <img class="icons" src="./Images/Shape.png" alt="Shape" />
+              <img class="icons" src="./images/Shape.png" alt="Shape" />
             </div>
           </div>
           <h3 class="title_section2">Bradley Hunter</h3>
