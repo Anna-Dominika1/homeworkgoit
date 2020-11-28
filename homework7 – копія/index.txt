@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./css/styles.css" />
+    <title>7_module</title>
+  </head>
+  <body>
+    <header class="header">
+      <div class="header_wrapper">
+        <div class="header_nav_wrapper">
+          <nav class="header_nav">
+            <button class="logIn">Log in</button>
+            <button class="logIn">Sign up</button>
+          </nav>
+
+          <h1 class="header_logo">
+            <a class="logo_link" href="#">Urlaubsglück</a>
+          </h1>
+        </div>
+
+        <h2 class="header_title">Share your holiday dreams</h2>
+
+        <h4 class="header_subtitle">
+          And find the perfect partner to fullfill it
+        </h4>
+
+        <button class="header_btn_find">Find your holiday partner</button>
+      </div>
+    </header>
+
+    <section class="section">
+      <h2 class="section_title">Meet a partner for your best holiday</h2>
+      <div class="wrapper_card">
+        <div class="card order1">
+          <div class="img_card">
+            <img
+              class="img"
+              src="./Images/Bradley_Hunter.png"
+              alt="Bradley_Hunter"
+            />
+            <div class="mini_icons">
+              <img class="icons" src="./images/Shape.png" alt="Shape" />
+            </div>
+          </div>
+          <h3 class="title_section2">Bradley Hunter</h3>
+          <p class="paragraf">
+            Based in Chicago. I love playing tennis and loud music.
+          </p>
+        </div>
+
+        <div class="card order2">
+          <div class="img_card">
+            <img
+              class="img"
+              src="./Images/Lucas_Marsha.png"
+              alt="Lucas_Marsha"
+            />
+            <div class="mini_icons mini_icons1">
+              <img class="icons" src="./Images/test_tube.png" alt="test_tube" />
+            </div>
+          </div>
+          <h3 class="title_section2">Lucas Marsha</h3>
+          <p class="paragraf">
+            I get my inspiration from nature and objects around me. I have a
+            passion to colours, typography and skateboards.
+          </p>
+        </div>
+
+        <div class="card order3">
+          <div class="img_card">
+            <img
+              class="img"
+              src="./Images/Heather_Walker.png"
+              alt="Heather_Walker"
+            />
+            <div class="mini_icons mini_icons2">
+              <img class="icons" src="./Images/coffee.png" alt="coffee" />
+            </div>
+          </div>
+          <h3 class="title_section2">Heather Walker</h3>
+          <p class="paragraf">
+            I'm a happy person that loves cats and climbing on mountains.
+          </p>
+        </div>
+
+        <div class="card order4">
+          <div class="img_card">
+            <img
+              class="img"
+              src="./Images/Bradley_Hunter(2).png"
+              alt="Bradley_Hunter"
+            />
+            <div class="mini_icons mini_icons3">
+              <img class="icons" src="./Images/fly.png" alt="fly" />
+            </div>
+          </div>
+          <h3 class="title_section2">Bradley Hunter</h3>
+          <p class="paragraf">
+            Based in Chicago. I love playing tennis and loud music.
+          </p>
+        </div>
+      </div>
+      <button class="section_btn_see">See other partners</button>
+    </section>
+  </body>
+</html>
