@@ -242,4 +242,101 @@
                     <img
                       class="social_img"
                       src="./Images/facebook.png"
-      
+                      alt="facebook"
+                    />
+                  </a>
+                  <a
+                    class="social_link"
+                    href="https://play.google.com/store/apps/details?id=com.twitter.android"
+                  >
+                    <img
+                      class="social_img"
+                      src="./Images/twitter.png"
+                      alt="twitter"
+                    />
+                  </a>
+                  <a
+                    class="social_link"
+                    href="https://play.google.com/store/apps/details?id=com.pinterest"
+                  >
+                    <img
+                      class="social_img"
+                      src="./Images/pinterest.png"
+                      alt="pinterest"
+                    />
+                  </a>
+                  <a
+                    class="social_link"
+                    href="https://play.google.com/store/apps/details?id=com.instagram.android"
+                  >
+                    <img
+                      class="social_img"
+                      src="./Images/instagram.png"
+                      alt="instagram"
+                    />
+                  </a>
+                </div>
+              </div>
+              <h4 class="name">Christopher Campbell</h4>
+              <h4 class="data">Branding/UX design</h4>
+            </div>
+            <!-- <div class="team_card "> -->
+            <div class="team_container">
+              <img
+                class="programmers"
+                src="./Images/programmer3.png"
+                alt="Matthew Dix"
+              />
+              <div class="team_card_gradient">
+                <div class="social">
+                  <a
+                    class="social_link"
+                    href="https://play.google.com/store/apps/details?id=com.facebook.katana"
+                  >
+                    <img
+                      class="social_img"
+                      src="./Images/facebook.png"
+                      alt="facebook"
+                    />
+                  </a>
+                  <a
+                    class="social_link"
+                    href="https://play.google.com/store/apps/details?id=com.twitter.android"
+                  >
+                    <img
+                      class="social_img"
+                      src="./Images/twitter.png"
+                      alt="twitter"
+                    />
+                  </a>
+                  <a
+                    class="social_link"
+                    href="https://play.google.com/store/apps/details?id=com.pinterest"
+                  >
+                    <img
+                      class="social_img"
+                      src="./Images/pinterest.png"
+                      alt="pinterest"
+                    />
+                  </a>
+                  <a
+                    class="social_link"
+                    href="https://play.google.com/store/apps/details?id=com.instagram.android"
+                  >
+                    <img
+                      class="social_img"
+                      src="./Images/instagram.png"
+                      alt="instagram"
+                    />
+                  </a>
+                </div>
+              </div>
+              <h4 class="name">Michael Fertig</h4>
+              <h4 class="data">Developer</h4>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>
